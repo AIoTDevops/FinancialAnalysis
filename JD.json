@@ -1,0 +1,62 @@
+{
+    "company":"JD",
+    "financial-data-list":[
+        {
+            "unit":"million",
+            "currency":"CNY",
+            "year":"2019",
+            "total-net-revenue":"576888",
+            "cost-of-revenue":"-492467",
+            "research-and-development":"-14618",
+            "income-or-loss-from-operations":"8994",
+            "net-income-or-loss":"11890"
+
+        },
+        {
+            "unit":"million",
+            "currency":"CNY",
+            "year":"2018",
+            "total-net-revenue":"462019",
+            "cost-of-revenue":"-396066",
+            "research-and-development":"-12144",
+            "income-or-loss-from-operations":"-2619",
+            "net-income-or-loss":"-2800"
+
+        },
+        {
+            "unit":"million",
+            "currency":"CNY",
+            "year":"2017",
+            "total-net-revenue":"362331",
+            "cost-of-revenue":"-311516",
+            "research-and-development":"-6652",
+            "income-or-loss-from-operations":"-835",
+            "net-income-or-loss":"-11"
+        },
+        {
+            "unit":"million",
+            "currency":"CNY",
+            "year":"2016",
+            "total-net-revenue":"258289",
+            "cost-of-revenue":"-222934",
+            "research-and-development":"",
+            "income-or-loss-from-operations":"-1251",
+            "net-income-or-loss":"-3413"
+
+        },
+        {
+            "unit":"million",
+            "currency":"CNY",
+            "year":"2015",
+            "total-net-revenue":"181042",
+            "cost-of-revenue":"-158960",
+            "research-and-development":"",
+            "income-or-loss-from-operations":"-5357",
+            "net-income-or-loss":"-9117"
+
+        }
+
+
+
+    ]
+}
